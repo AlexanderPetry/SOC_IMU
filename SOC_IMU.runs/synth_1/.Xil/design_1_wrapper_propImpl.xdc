@@ -1,0 +1,5 @@
+set_property SRC_FILE_INFO {cfile:C:/Users/PatrickKenis/Downloads/SOC_IMU/SOC_IMU.srcs/constrs_1/new/eFPGA_I2C_PL.xdc rfile:../../../SOC_IMU.srcs/constrs_1/new/eFPGA_I2C_PL.xdc id:1} [current_design]
+set_property src_info {type:XDC file:1 line:1 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN Y18 [get_ports audio_i2c_scl_io]
+set_property src_info {type:XDC file:1 line:2 export:INPUT save:INPUT read:READ} [current_design]
+set_property PACKAGE_PIN U18 [get_ports audio_i2c_sda_io]
