@@ -1,6 +1,6 @@
 # SOC IMU
 
-## YT demo
+## Youtube demo
 
 https://youtu.be/36GtuC4J3yM
 
